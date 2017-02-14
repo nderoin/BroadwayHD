@@ -1,1 +1,14 @@
-
+ <head>
+ </head>
+ <title>About!</title>
+ <style>
+ <div class="column a">
+ </div>
+ 
+ <div class="column b">
+ </div>
+ 
+ <div class="column c">
+ </div>
+ 
+ </style>

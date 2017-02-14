@@ -3,6 +3,13 @@
  <title>About!</title>
  <style>
  <div class="column a">
+ <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="Home">Link 1</a>
+    <a href="About">Link 2</a>
+    <a href="Variety of Shows">Link 3</a>
+  </div>
  </div>
  
  <div class="column b">

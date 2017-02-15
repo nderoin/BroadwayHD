@@ -6,9 +6,9 @@
  <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Dropdown</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="Home">Link 1</a>
-    <a href="About">Link 2</a>
-    <a href="Variety of Shows">Link 3</a>
+    <a href="Home">Home</a>
+    <a href="About">About</a>
+    <a href="Variety of Shows">Variety of Shows</a>
   </div>
  </div>
  

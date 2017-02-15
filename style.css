@@ -1,3 +1,6 @@
+body { 
+    background-image: url("http://www.lanlinglaurel.com/data/out/83/4651581-pic-background.jpg")
+}
 .flex-container {
     display: -webkit-flex;
     display: flex;

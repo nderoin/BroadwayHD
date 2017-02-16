@@ -2,6 +2,8 @@
  </head>
  <title>About!</title>
  <style>
+ body { 
+   background-image: url="http://bgwall.net/wp-content/uploads/2014/09/cool-bulb-drop-rain-wallpaper.jpg" }
  </style>
  <body>
  <div class="column a">

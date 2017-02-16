@@ -2,6 +2,8 @@
  </head>
  <title>About!</title>
  <style>
+ </style>
+ <body>
  <div class="column a">
  <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Dropdown</button>
@@ -20,4 +22,4 @@
  <div class="column c">
  </div>
  
- </style>
+</body>

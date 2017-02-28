@@ -4,18 +4,33 @@
  <style>
  body { 
  background-image: url("http://www.solidbackgrounds.com/images/2560x1600/2560x1600-pale-lavender-solid-color-background.jpg") }
- </style>
- <body>
- <div class="column a">
- <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="showvariety.html">Variety of Shows</a>
-  </div>
- </div>
-  <div class="column b">
+ul {
+  list-style-type: none;
+  border: 1px solid #555;
+  border-radius: 25px;
+  background-color: pink;
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  }
+li a {
+  display: block;
+  padding: 8px 16px;
+  }
+/* Change the link color on hover */
+li a:hover {
+  background-color: yellow;
+  border-radius: 25px;
+  color: white;
+  }
+    </style>
+<body>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="showvariety.html">Show Variety</a></li>
+    </ul>
+ <div class="column b">
  <p>How to Download: 1.Subscribe and pick a monthly/yearly/one-time-rental plan  2. Watch from online, Roku, AppleTV, or iPhone/iPad app
  </p>
  </div>
